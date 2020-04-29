@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head> 
+	<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@469&display=swap" rel="stylesheet">
+    <meta charset="UTF-8"/> 
+    <title>Willahelm Refuge</title> 
+    <link href="estilos/cor fundo.css" rel="stylesheet">
+    <link href="estilos/imagem.css" rel="stylesheet">
+    <!--Como colocar titulo-->
+</head>
+<body>
+<img src="Zumbi.png" alt="Imagem não encontrada" title="Willahelm Refuge"/>
+<!--forma de adicionar imagem-->
+    <h1>Willahelm Refuge</h1>
+    <a href="Willahelm%20Refuge.html">Home</a>
+    <a href="Habilidades&Talentos.html">Habilidades/Talentos</a>
+    <a href="Ocupações.html">Ocupações</a>
+    <a href="Sistema%20de%20evolução.html">Sistema de evolução</a>
+</body>
+</html>
